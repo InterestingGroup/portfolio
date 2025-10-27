@@ -1,0 +1,20 @@
+$primary-color: #3498db;
+
+body {
+  background-color: $primary-color;
+  font-family: Arial, sans-serif;
+
+  h1 {
+    color: white;
+  }
+
+  p
+  {
+    color: red;
+  }
+
+  ul
+  {
+    list-style-type: disc;
+  }
+}

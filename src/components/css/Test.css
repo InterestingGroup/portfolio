@@ -1,0 +1,13 @@
+body {
+  background-color: #3498db;
+  font-family: Arial, sans-serif;
+}
+body h1 {
+  color: white;
+}
+body p {
+  color: red;
+}
+body ul {
+  list-style-type: disc;
+}/*# sourceMappingURL=Test.css.map */
